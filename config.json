@@ -1,0 +1,9 @@
+{
+	"ip":"2in2one.tk",
+	"port": 54070,
+	"name": "2in2oneBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (123456) (123456)",
+	"login-cmd":"/login (123456)"
+}
